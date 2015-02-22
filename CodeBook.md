@@ -1,8 +1,8 @@
 ==============
 | About Data |
 ==============
-Reference link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-Original data : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Reference link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones <br>
+Original data : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip <br>
  =================================================================<br>
   Human Activity Recognition Using Smartphones Dataset <br>
   Version 1.0 <br>
