@@ -3,17 +3,17 @@
 ==============
 Reference link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Original data : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
- =================================================================
- | Human Activity Recognition Using Smartphones Dataset
- | Version 1.0
- =================================================================
- | Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
- | Smartlab - Non Linear Complex Systems Laboratory
- | DITEN - Universit?degli Studi di Genova.
- | Via Opera Pia 11A, I-16145, Genoa, Italy.
- | activityrecognition@smartlab.ws
- | www.smartlab.ws
- =================================================================
+ =================================================================<br>
+  Human Activity Recognition Using Smartphones Dataset <br>
+  Version 1.0 <br>
+ =================================================================<br>
+ | Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.<br>
+ | Smartlab - Non Linear Complex Systems Laboratory<br>
+ | DITEN - Universit?degli Studi di Genova.<br>
+ | Via Opera Pia 11A, I-16145, Genoa, Italy.<br>
+ | activityrecognition@smartlab.ws<br>
+ | www.smartlab.ws<br>
+ =================================================================<br>
 
 
 ================
